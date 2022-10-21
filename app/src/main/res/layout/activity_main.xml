@@ -19,6 +19,7 @@
         android:ems="10"
         android:gravity="end|center_vertical"
         android:maxLength="12"
+        android:textColor="@color/inputText"
         android:textSize="48sp"
         app:layout_constraintTop_toTopOf="parent" />
 
